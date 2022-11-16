@@ -18,7 +18,7 @@
 
 **Main Screen**
 ![mainScreen](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/MainScreen.png)
-
+  - In this sketch Im trying to illustrate what my main screen will look like. This is a mirror so i didnt want to block the view of the reflection with a lot of buttons and widgets so I decided to only include 4 buttons which will take you to 4 different screens. One to illustarte a personalized calender , health menu , social which inclues text messages and a news feed that will also link to the weather forecast. In addition to this i added a clock to illustarte the current time wich i believe is crucial information.
 **Personalized Calendar**
 ![calendarScreen](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/CalendarScreen.png)
 
