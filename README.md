@@ -10,9 +10,11 @@
 [GitHub repository]
 [(https://github.com/valequintanilla/p2.Valeria.Quintanilla)]
 
-[Code](https://github.com/valequintanilla/p1.Valeria.Quintanilla/tree/main/Project%20Code)
-##Current Design
+[Code][]
 
+[Images][]
+
+##Sketch
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.JPG)
 
 ![elevator gif](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
