@@ -7,6 +7,8 @@
 ### Links
 [Presentation page][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/README.md)]
 
+[Video Presentation][(https://youtu.be/fwktRpgK8QU)]
+
 [GitHub repository]
 [(https://github.com/valequintanilla/p2.Valeria.Quintanilla)]
 
@@ -42,7 +44,7 @@
 
 ### Link to Video Presentation:
 
-![Presentation](https://youtu.be/fwktRpgK8QU)
+[Presentation][(https://youtu.be/fwktRpgK8QU)]
 
 ### Interface GIF
 
