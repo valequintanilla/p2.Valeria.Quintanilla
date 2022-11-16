@@ -42,7 +42,7 @@
 
 ### Link to Video Presentation:
 
-![Presentation](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png)
+![Presentation]()
 
 ### Interface GIF
 
