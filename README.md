@@ -12,7 +12,7 @@
 
 [Code Folder][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/tree/main/p2_Valeria_Quintanilla)]
 
-[Source Code][()]
+[Source Code][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/p2_Valeria_Quintanilla/p2_Valeria_Quintanilla.pde)]
 
 [Images][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/tree/main/P2_HCI_IMAGES)]
 
@@ -40,15 +40,14 @@
   - When clicking on the News Feed the program will take you to the News screen where it will illustarte the news and the weather forecast.This screen will also include a back button to go back to main screen.
 
 
-### New Design
+### Link to Video Presentation:
 
-![sketch](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png)
+![Presentation](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png)
 
-- Code Output
+### Interface GIF
 
-![Output](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla2.gif)
+![GIF](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla2.gif)
 
-[Code link]
-(https://github.com/valequintanilla/p1.Valeria.Quintanilla/tree/main/Project%20Code)
+
 
 
