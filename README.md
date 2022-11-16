@@ -10,7 +10,9 @@
 [GitHub repository]
 [(https://github.com/valequintanilla/p2.Valeria.Quintanilla)]
 
-[Code][]
+[Code Folder][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/tree/main/p2_Valeria_Quintanilla)]
+
+[Source Code][()]
 
 [Images][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/tree/main/P2_HCI_IMAGES)]
 
