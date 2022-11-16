@@ -5,7 +5,7 @@
 
 
 ### Links
-[Presentation page][(https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/README.md)]
+[Presentation page][(https://github.com/valequintanilla/p2_Valeria_Quintanilla/blob/main/README.md)]
 
 [GitHub repository]
 [(https://github.com/valequintanilla/p1.Valeria.Quintanilla)]
