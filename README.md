@@ -46,7 +46,7 @@
 
 ### Interface GIF
 
-![GIF](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla2.gif)
+![GIF](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/p2_Valeria_Quintanilla.gif)
 
 
 
