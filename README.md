@@ -12,7 +12,7 @@
 
 [Code][]
 
-[Images][]
+[Images][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/tree/main/P2_HCI_IMAGES)]
 
 ##Sketch
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.JPG)
