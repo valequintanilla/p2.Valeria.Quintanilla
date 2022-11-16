@@ -20,41 +20,19 @@
 ![mainScreen](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/MainScreen.png)
 
 **Personalized Calendar**
-![calendarScreen](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
-### Positives and Negatives about current Design:
+![calendarScreen](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/CalendarScreen.png)
 
-**Positives**
-- Visual feedback.
-- Very specific button names.
-- Good lighting.
+**Social Feed**
+![SocialFeed](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/SocialFeed.png
+)
 
-**Negatives**
-- Order of the buttons
-- No Braille inscription: For people with loss of vision it will be helpful to have a braille inscription to be able to operate the elevator a lot easier.
-- No audio feedback.
-- Does not keep the user informed of what is going on through appropriate feedback.
+**Health**
+![calendarScreen](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/HealthScreen.png)
+
+**News Feed / Weather*
+![NewsFeed](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/NewsFeed.png)
 
 
-
-### Common Uses
-- Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
-- The most common uses of an elevator are : pressing the buttons to indicate which floor you tend to go, pressing the open and close buttons to open and close the door.
-- Elevators can also be used to transfer heavy things from one floor to another which might be difficult by using the stairs.
-- The most rare uses for an elevator is using the emergency button, however its still very important to include this button.
-- The elevator provides feedback by turning on the light of the button when is pressed, it turns off when it arrives to the desired floor. Usually the elevators have audio feedback but this one did not.
-
-
-### Mistakes and Imporvements
-**Missing audio feedback**
-- Improvement: adding a sound to notify user that they are on the right floor.
-**Missing visibility of system status**
-- Improvement: Adding a screen that illustrates the movement of the elevator(if it is going up or down and what floor)
-
-**Missing a Braille Inscription**
-- For people with loss of vision it will be helpful to have a braille inscription to be able to operate the elevator a lot easier.
-- Improvement: adding Braille Inscription on the buttons.
-**Other Improvements**
-- Rearranging the order of the buttons and adding a cancel button.
 
 ### New Design
 
