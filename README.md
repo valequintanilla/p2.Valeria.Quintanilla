@@ -14,8 +14,10 @@
 
 [Images][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/tree/main/P2_HCI_IMAGES)]
 
-##Sketch
-![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.JPG)
+###Smart Mirror Sketch
+
+**Main Screen**
+![mainScreen](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.JPG)
 
 ![elevator gif](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
 ### Positives and Negatives about current Design:
