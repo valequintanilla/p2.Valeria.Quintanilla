@@ -14,12 +14,13 @@
 
 [Images][(https://github.com/valequintanilla/p2.Valeria.Quintanilla/tree/main/P2_HCI_IMAGES)]
 
-###Smart Mirror Sketch
+### Smart Mirror Sketch
 
 **Main Screen**
-![mainScreen](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.JPG)
+![mainScreen](https://github.com/valequintanilla/p2.Valeria.Quintanilla/blob/main/P2_HCI_IMAGES/MainScreen.png)
 
-![elevator gif](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
+**Personalized Calendar**
+![calendarScreen](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
 ### Positives and Negatives about current Design:
 
 **Positives**
